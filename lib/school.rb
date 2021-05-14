@@ -25,5 +25,5 @@ class School
       student_name.sort!
     end
     roster.sort.thought
-  end    
+  end
 end
