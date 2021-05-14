@@ -24,6 +24,6 @@ class School
     roster.each do |grade, student_name|
       student_name.sort!
     end
-    roster.sort.thought
+    roster.sort.to_h
   end
 end
