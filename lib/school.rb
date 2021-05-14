@@ -12,4 +12,5 @@ class School
 
   def grade(grade)
     roster[]
+  end
 end
